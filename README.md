@@ -1,4 +1,4 @@
-# Hey There! 👋
+# Hey there! 👋
 
 **I'm Ritesh** - I'm a seasoned web development expert with a knack for UX design. I build pixel-perfect, engaging, and accessible digital experiences. I'm passionate about crafting experiences that are accessible and user-centric.
 
