@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-**I'm Ritesh** - a seasoned web development expert with a knack for UX design. I build pixel-perfect, engaging, and accessible digital experiences. I'm passionate about crafting experiences that are accessible and user-centric.
+**I'm Ritesh Sahu** - a seasoned web development expert with a knack for UX design. I build pixel-perfect, engaging, and accessible digital experiences. I'm passionate about crafting experiences that are accessible and user-centric.
 
 ### Connect with me
 
